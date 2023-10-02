@@ -1,6 +1,6 @@
 {
     "files.autoSave": "afterDelay",
-    "git.enabled": false,
+    "git.enabled": true,
     "git.decorations.enabled": false,
     "git.autorefresh": false,
     "editor.renderWhitespace": "none",
