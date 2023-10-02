@@ -1,0 +1,32 @@
+{
+    "files.autoSave": "afterDelay",
+    "git.enabled": false,
+    "git.decorations.enabled": false,
+    "git.autorefresh": false,
+    "editor.renderWhitespace": "none",
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "breadcrumbs.symbolPath": "off",
+    "editor.inlayHints.fontSize": 12,
+    "editor.inlayHints.padding": true,
+    "editor.inlayHints.fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Helvetica, Arial, sans-serif",
+    "javascript.inlayHints.enumMemberValues.enabled": true,
+    "javascript.inlayHints.parameterNames.enabled": "all",
+    "javascript.inlayHints.parameterTypes.enabled": true,
+    // You can turn the following settings on by replacing `false` with true,
+    // This gives you more hints, but some might find them confusing
+    "javascript.inlayHints.functionLikeReturnTypes.enabled": false,
+    "javascript.inlayHints.propertyDeclarationTypes.enabled": false,
+    "javascript.inlayHints.variableTypes.enabled": false,
+    // The end of the optional settings
+    "javascript.format.enable": true,
+    "editor.tabSize": 4,
+    "editor.showUnused": true,
+    "editor.folding": false,
+    "editor.foldingHighlight": false,
+    "editor.padding.bottom": 20,
+    "editor.padding.top": 20,
+    "[plaintext]": {
+        "editor.wordWrap": "on"
+    }
+}
